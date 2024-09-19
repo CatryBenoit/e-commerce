@@ -8,7 +8,7 @@ Travail réalisé en 2 parties:
 
 - Affichage des articles
 - Connexion compte client/admin
-- trie de article 
+- trie des articles 
 ...
 
 2 en partie réaliser seul:
