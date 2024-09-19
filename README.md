@@ -1,6 +1,7 @@
 # Site de e-commerce
 
 Site de e-commerce de vente de clés USB.
+
 Travail réalisé en 2 parties:
 1 partie en groupe:
 - Affichage des articles
