@@ -13,7 +13,7 @@ Travail réalisé en 2 parties:
 
 2 en partie réaliser seul:
 
--gestion des paniers
+- gestion des paniers
 - Gestion des commandes côté client et admin
 - gestion des adresses
 - Statistique sur les commandes
